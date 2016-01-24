@@ -1,4 +1,4 @@
-Face Detection using Raspberry Pi 2 Model B (Raspbian Jessie) and OpenCV 3.0.0 using Python 2.7.3.
+Face Recognition using Raspberry Pi 2 Model B (Raspbian Jessie) and OpenCV 3.0.0 using Python 2.7.3.
 
 This program is about checking if the user is allowed to enter by capturing their faces and comparing it to the existing Training Data Sets. The training model is from the OPENCV 3.0.0 library which does the Machine Learning algorithms to recognize a human face. The database of faces used in this project are from AT&T Laboratories Cambridge, download it and include it with this repository. Visit their website: (http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html)
 
